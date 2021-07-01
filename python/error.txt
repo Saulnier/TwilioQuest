@@ -1,0 +1,8 @@
+Executing script: /Users/adam.saulnier/Documents/Dev/twilioQuest/python/citizen.py
+Script arguments: 
+Output:
+Traceback (most recent call last):
+  File "/Users/adam.saulnier/Documents/Dev/twilioQuest/python/citizen.py", line 18, in <module>
+    print(person.Greeting.message)
+AttributeError: 'Citizen' object has no attribute 'Greeting'
+
